@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SuperTonicV7
-- 👀 I’m a musician and educator:
-  * 🦉Rowan 2009 Bachelor of Jazz Education
-  * 🦜 ISU 2011 Master of Music
-  * 🐯 LSU 2013 Doctor of Musical Arts
+- 👀 I’m a musician and educator, jumping into something new.
+  * 🦉 Rowan 2009
+  * 🦜 ISU 2011
+  * 🐯 LSU 2013
 - 🌱 I’m currently learning Python
 - 📫 nicholas.disalvio@gmail.com
 
